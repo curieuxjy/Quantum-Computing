@@ -9,3 +9,4 @@
 ## Videos
 * [IBM Qiskit Advocate와 함께 하는 - Quantum Computing 101](https://youtu.be/SEfG5GJ4f7w)
 * [양자 컴퓨터에 관한 짧은 역사 (자막)](https://youtu.be/HaeJ8Q8TKxA)
+* [양자컴퓨터의 기초와 그루버 알고리즘](https://youtu.be/EuAjgGHqJ5A)
