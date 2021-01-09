@@ -1,4 +1,7 @@
 # Quantum-Computing
+
+![banner](./QCbanner.png)
+
 ## What is Quantum computing
 * [Quirk](https://github.com/Strilanc/Quirk)
 * [Qiskit](https://qiskit.org/textbook/preface.html)
