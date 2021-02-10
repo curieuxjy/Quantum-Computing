@@ -3,8 +3,11 @@
 ![banner](./QCbanner.png)
 
 ## What is Quantum computing
+* [Qiskit Documentation](https://qiskit.org/documentation/index.html)
+    * [Qiskit textbook](https://qiskit.org/textbook/preface.html)
+    * [Qiskit ML tutorials](https://github.com/qiskit-community/qiskit-community-tutorials/tree/master/machine_learning)
+    * [Qiskit Aqua](https://github.com/Qiskit/qiskit-aqua)
 * [Quirk](https://github.com/Strilanc/Quirk)
-* [Qiskit](https://qiskit.org/textbook/preface.html)
 * [TensorFlow Quantum](https://github.com/tensorflow/quantum)
 * [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks)
 * [Creating infinite worlds with quantum computing](https://medium.com/qiskit/creating-infinite-worlds-with-quantum-computing-5e998e6d21c2)

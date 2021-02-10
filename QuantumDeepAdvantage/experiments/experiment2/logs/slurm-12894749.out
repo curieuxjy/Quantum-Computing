@@ -1,0 +1,10 @@
+2019-11-20 03:52:45.817998: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2019-11-20 03:52:45.823505: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2095105000 Hz
+2019-11-20 03:52:45.823608: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x65269e0 executing computations on platform Host. Devices:
+2019-11-20 03:52:45.823622: I tensorflow/compiler/xla/service/service.cc:175]   StreamExecutor device (0): Host, Default Version
+/var/spool/slurm/job12894749/slurm_script: line 11: 18299 Killed                  python main.py 0.9 0.001
+Nov 20 04:06:31 spartan-bm040 kernel: Task in /slurm/uid_10250/job_12894749/step_batch killed as a result of limit of /slurm/uid_10250/job_12894749/step_batch
+Nov 20 04:06:31 spartan-bm040 kernel: memory: usage 10485760kB, limit 10485760kB, failcnt 0
+Nov 20 04:06:31 spartan-bm040 kernel: memory+swap: usage 10485760kB, limit 10485760kB, failcnt 14644
+Nov 20 04:06:31 spartan-bm040 kernel: kmem: usage 26088kB, limit 9007199254740988kB, failcnt 0
+Nov 20 04:06:31 spartan-bm040 kernel: Memory cgroup stats for /slurm/uid_10250/job_12894749/step_batch: cache:1508KB rss:10458264KB rss_huge:8192KB shmem:0KB mapped_file:660KB dirty:132KB writeback:0KB swap:0KB inactive_anon:20KB active_anon:10458264KB inactive_file:692KB active_file:696KB unevictable:0KB
